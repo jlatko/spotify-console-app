@@ -1,0 +1,5 @@
+package config
+object Config {
+  val CLIENT_ID = "your spotify app's client id"
+  val CLIENT_SECRET = "your spotify app's client secret"
+}

@@ -1,0 +1,22 @@
+/src/main/scala/config/Config.scala
+/src/main/scala/project.sc
+
+*.class
+*.log
+test.sc
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/gts
+project/plugins/project/
+
+# Scala-IDE specific
+.idea/
+.scala_dependencies
+.worksheet
