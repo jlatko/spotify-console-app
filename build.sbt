@@ -1,4 +1,4 @@
-name := "project2"
+name := "spotify-console-app"
 
 version := "0.1"
 
